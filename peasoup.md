@@ -1,6 +1,6 @@
 # Ingredients
 - peas
-- onions
+- spring onions
 - potatos
 # Instructions
 
