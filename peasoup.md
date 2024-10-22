@@ -3,4 +3,4 @@
 - spring onions
 - potatos
 # Instructions
-- Shell the peas
+- Shell the peas then put peas into a pan
